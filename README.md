@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi there, I'm Pedro Morata👋
 
-<!--
-**devmorata/devmorata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About
 
-Here are some ideas to get you started:
+I am pursuing academic training in Systems Analysis and Development and technical training in Full-Stack Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current stack
+
+- Main language: `JavaScript`
+- Backend: `Node.js`
+- Frontend: `React.js`, `HTML5`, `CSS3`, `JavaScript`
+- Layout Design: `Figma`
+- Version code control: `Git & GitHub`
+- Tools: `VisualStudioCode`
+
+### Contacts
+
+- Linkedin: http://www.linkedin.com/in/pedro-morata-6b95711b7
