@@ -9,7 +9,7 @@ I am pursuing academic training in Systems Analysis and Development and technica
 - Main language: `JavaScript`
 - Backend: `Node.js`
 - Frontend: `React.js`, `HTML5`, `CSS3`, `JavaScript`
-- Data: `SQLite`
+- Database: `SQLite`
 - Layout Design: `Figma`
 - Version code control: `Git & GitHub`
 - Tools: `VisualStudioCode`, `Insomnia`, `Beekeeper`
